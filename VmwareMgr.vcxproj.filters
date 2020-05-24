@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="VmwareMgr">
+      <UniqueIdentifier>{e53f27be-1568-40e8-94ad-cfbc79b76f65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImportFunc">
+      <UniqueIdentifier>{34ff907a-284e-470a-8aeb-90ac6e179e8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PowerOperations">
+      <UniqueIdentifier>{d18032a5-8a09-47e0-b7a2-b85107717336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SearchVmxFile">
+      <UniqueIdentifier>{63c25d68-1370-4c55-b73c-f29cee81e325}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clone">
+      <UniqueIdentifier>{bc824ff3-f653-4b09-aff6-8b514680c0e7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="VmwareMgr.cpp">
+      <Filter>VmwareMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="ImportFunc.cpp">
+      <Filter>ImportFunc</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerOperations.cpp">
+      <Filter>PowerOperations</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchVmxFile.cpp">
+      <Filter>SearchVmxFile</Filter>
+    </ClCompile>
+    <ClCompile Include="Clone.cpp">
+      <Filter>Clone</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VmwareMgr.h">
+      <Filter>VmwareMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ImportFunc.h">
+      <Filter>ImportFunc</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerOperations.h">
+      <Filter>PowerOperations</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchVmxFile.h">
+      <Filter>SearchVmxFile</Filter>
+    </ClInclude>
+    <ClInclude Include="Clone.h">
+      <Filter>Clone</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

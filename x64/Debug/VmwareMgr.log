@@ -1,0 +1,30 @@
+﻿  VmwareMgr.cpp
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\vmwaremgr.cpp(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\vmwaremgr.cpp(271): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  SearchVmxFile.cpp
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\searchvmxfile.cpp(14): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\searchvmxfile.cpp(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\searchvmxfile.cpp(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\searchvmxfile.cpp(43): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\searchvmxfile.cpp(44): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\searchvmxfile.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\searchvmxfile.cpp(85): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\searchvmxfile.cpp(86): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+g:\my_workspace\vs_projects\vmwaremgr\vmwaremgr\searchvmxfile.cpp(87): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+  PowerOperations.cpp
+  ImportFunc.cpp
+  Clone.cpp
+  正在生成代码...
+  VmwareMgr.vcxproj -> G:\my_workSpace\vs_projects\VmwareMgr\x64\Debug\VmwareMgr.exe
+  VmwareMgr.vcxproj -> G:\my_workSpace\vs_projects\VmwareMgr\x64\Debug\VmwareMgr.pdb (Full PDB)
